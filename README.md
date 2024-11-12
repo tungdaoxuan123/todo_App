@@ -49,5 +49,5 @@ python pytest
 
 or using django restframework:
 ```bash
-python manage.py test todos.tests
+python manage.py test
 ```
