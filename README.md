@@ -23,6 +23,7 @@ This is a simple To-Do app built with Django and Django REST Framework.
 
 4. Run migrations:
    ```bash
+   python manage.py makemigrations
    python manage.py migrate
    ```
 
