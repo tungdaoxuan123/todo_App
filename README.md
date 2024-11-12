@@ -43,7 +43,11 @@ You can interact with the API at:
 ## Test
 
 You can run with pytest:
-- python pytest
+```bash
+python pytest
+```
 
 or using django restframework:
-- python manage.py test todos.tests
+```bash
+python manage.py test todos.tests
+```
