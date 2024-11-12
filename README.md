@@ -39,3 +39,11 @@ You can interact with the API at:
 - GET `/api/tasks/` - List all tasks
 - PUT/PATCH `/api/tasks/{id}/` - Update a task
 - DELETE `/api/tasks/{id}/` - Delete a task
+
+## Test
+
+You can run with pytest:
+- python pytest
+
+or using django restframework:
+- python manage.py test todos.tests
