@@ -1,0 +1,44 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__
+
+# Django migration files
+*/migrations/*
+
+# Database files
+*.sqlite3
+
+# Local environment settings
+*.env
+
+# Django media files
+media/
+
+# Django static files (if generated)
+static/
+
+# VS Code settings
+.vscode/
+
+# IDE configurations
+.idea/
+
+# Python virtual environment
+venv/
+env/
+*.egg-info/
+
+# Coverage reports
+.coverage
+*.coveragerc
+
+# Pytest cache
+.pytest_cache/
+
+# Test and debug logs
+*.log
+
+# Python virtual environments (common names)
+.venv/
+env/
